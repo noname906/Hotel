@@ -1,0 +1,41 @@
+Feladat: Hotel honlap készítése
+Készítsetek egy fiktív hotel vagy panzió weboldalt, amelyen a látogatók megismerhetik a szobákat, és egy foglalási űrlapon keresztül szobát foglalhatnak.
+________________________________________
+Kötelező elemek
+1. Főoldal
+•	A hotel neve
+•	Rövid bemutatkozás
+•	Legalább 1 kép
+________________________________________
+2. Szobák bemutatása
+Legalább 2 különböző szobatípus, mindegyiknél:
+•	szoba neve
+•	rövid leírás
+•	ár (Ft / éjszaka)
+________________________________________
+3. Foglalási űrlap
+Az űrlap tartalmazza:
+•	név
+•	email cím
+•	érkezés dátuma
+•	távozás dátuma
+•	szobatípus kiválasztása
+________________________________________
+4. JavaScript feladat
+JavaScript segítségével:
+•	számoljátok ki az éjszakák számát
+•	jelenítsétek meg a foglalás végösszegét
+________________________________________
+5. Visszajelzés
+A foglalás elküldése után jelenjen meg egy üzenet:
+„Köszönjük a foglalást!”
+________________________________________
+Technikai követelmények
+•	HTML + CSS + JavaScript használata
+•	legalább 1 külön JavaScript fájl
+•	az oldal legyen áttekinthető és rendezett
+________________________________________
+Plusz pont
+•	szép megjelenés (színek, betűtípusok)
+•	reszponzív elrendezés
+•	extra szolgáltatás választása (pl. reggeli)
