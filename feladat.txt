@@ -39,3 +39,22 @@ Plusz pont
 •	szép megjelenés (színek, betűtípusok)
 •	reszponzív elrendezés
 •	extra szolgáltatás választása (pl. reggeli)
+
+
+
+HOTEL 2.0
+Foglalások mentése és megjelenítése (LocalStorage)
+•	Leírás: A felhasználó által beküldött foglalásokat tárolja a böngészőben (LocalStorage), majd jelenítse meg egy „Korábbi foglalásaim” szekcióban.
+•	Miért jó? Gyakorlat a kliensoldali adatkezelésben, állapotmegőrzésben.
+________________________________________
+Validáció és hibakezelés
+•	Leírás: JavaScript ellenőrizze: 
+o	kötelező mezők kitöltését,
+o	dátumok helyességét (érkezés < távozás),
+o	email formátumot.
+________________________________________
+Extra funkciók – élményfokozás (legalább 2 az alábbiak közül)
+o	Szobákhoz képgaléria és „Részletek” gomb, ami modális ablakban nyitja meg a teljes leírást.
+o	Google Maps beágyazása a hotel helyével.
+o	„Kapcsolat” oldal egyszerű üzenetküldő űrlappal.
+
